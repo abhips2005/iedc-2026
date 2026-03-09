@@ -64,7 +64,7 @@ export default function FloatingNavbar() {
                                 className="object-contain"
                             />
                         </div>
-                        <span className="font-semibold text-[15px] text-text-main">IEDC SJCET</span>
+                        <span className="font-semibold text-[15px] text-text-main whitespace-nowrap">IEDC SJCET</span>
                     </a>
 
                     {/* Desktop Nav Links */}

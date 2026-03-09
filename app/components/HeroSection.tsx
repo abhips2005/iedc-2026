@@ -132,19 +132,19 @@ export default function HeroSection() {
                 className="relative z-20 w-screen bg-[#FFFAF8] -mt-1"
             >
                 <div className="bg-black py-4 md:py-6 overflow-hidden">
-                    <Marquee speed={30} className="text-white font-black tracking-tighter text-3xl md:text-5xl lg:text-6xl flex items-center">
-                        <div className="flex items-center gap-8 md:gap-12 px-4 whitespace-nowrap">
+                    <Marquee baseVelocity={-5} className="text-white font-black tracking-tighter text-3xl md:text-5xl lg:text-6xl flex items-center">
+                        <div className="flex items-center gap-8 md:gap-12 pr-8 md:pr-12 whitespace-nowrap">
                             <span>INNOVATIVE</span>
                             <span className="w-3 h-3 md:w-4 md:h-4 bg-[#FF7A00] rotate-45" />
-                            <span>TECHNICAL</span>
+                            <span>BUILD</span>
                             <span className="w-3 h-3 md:w-4 md:h-4 bg-[#FF7A00] rotate-45" />
-                            <span>CREATIVE</span>
+                            <span>LAUNCH</span>
                             <span className="w-3 h-3 md:w-4 md:h-4 bg-[#FF7A00] rotate-45" />
-                            <span>INNOVATIVE</span>
+                            <span>DISRUPT</span>
                             <span className="w-3 h-3 md:w-4 md:h-4 bg-[#FF7A00] rotate-45" />
-                            <span>TECHNICAL</span>
+                            <span>CREATE</span>
                             <span className="w-3 h-3 md:w-4 md:h-4 bg-[#FF7A00] rotate-45" />
-                            <span>CREATIVE</span>
+                            <span>SCALE</span>
                             <span className="w-3 h-3 md:w-4 md:h-4 bg-[#FF7A00] rotate-45" />
                         </div>
                     </Marquee>
