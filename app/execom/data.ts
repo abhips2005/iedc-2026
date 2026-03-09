@@ -26,7 +26,7 @@ export const execomHistory: ExecomData[] = [
             {
                 name: "Yadu Krishna",
                 role: "CEO",
-                image: "/execom/tims.jpeg",
+                image: "/execom/24-25/tims.jpeg",
                 bio: "Leading innovation and entrepreneurship initiatives at SJCET. Expert in strategic planning and ecosystem development.",
                 linkedin: "#",
                 email: "yadu@sjcetpalai.ac.in",
@@ -35,7 +35,7 @@ export const execomHistory: ExecomData[] = [
             {
                 name: "Akshay P",
                 role: "COO",
-                image: "/execom/tims.jpeg",
+                image: "/execom/24-25/tims.jpeg",
                 bio: "Managing operations and internal processes. Focused on streamlining startup incubation and student support.",
                 linkedin: "#",
                 email: "akshay@sjcetpalai.ac.in",
@@ -44,7 +44,7 @@ export const execomHistory: ExecomData[] = [
             {
                 name: "Tims Tittus",
                 role: "CTO",
-                image: "/execom/tims.jpeg",
+                image: "/execom/24-25/tims.jpeg",
                 bio: "Driving technical excellence and product development within IEDC. Specialized in emerging technologies.",
                 linkedin: "#",
                 email: "tims@sjcetpalai.ac.in",
@@ -53,7 +53,7 @@ export const execomHistory: ExecomData[] = [
             {
                 name: "Alan Jose",
                 role: "CFO",
-                image: "/execom/tims.jpeg",
+                image: "/execom/24-25/tims.jpeg",
                 bio: "Overseeing financial planning and resource allocation. Ensuring sustainable growth for student ventures.",
                 linkedin: "#",
                 email: "alan@sjcetpalai.ac.in",
@@ -62,7 +62,7 @@ export const execomHistory: ExecomData[] = [
             {
                 name: "Sreya Mariya",
                 role: "CPO",
-                image: "/execom/tims.jpeg",
+                image: "/execom/24-25/tims.jpeg",
                 bio: "Fostering partnerships and community engagement. Building bridges between industry and academia.",
                 linkedin: "#",
                 email: "sreya@sjcetpalai.ac.in",
@@ -111,6 +111,107 @@ export const execomHistory: ExecomData[] = [
     },
     {
         year: "24/25",
+        leads: [
+            {
+                name: "Sarju S",
+                role: "IEDC Nodal Officer",
+                image: "",
+                bio: "Guiding the institution's innovation and entrepreneurship ecosystem.",
+                linkedin: "#",
+                email: "sarju@sjcetpalai.ac.in",
+                letter: "S"
+            },
+            {
+                name: "Jose Thomas",
+                role: "CMO",
+                image: "/execom/24-25/jose.png",
+                bio: "Driving marketing strategies and outreach programs.",
+                linkedin: "https://www.linkedin.com/in/jose-thomas-62696527b/",
+                email: "jose@sjcetpalai.ac.in",
+                letter: "J"
+            },
+            {
+                name: "Basil V",
+                role: "CFO",
+                image: "/execom/24-25/basil.png",
+                bio: "Handling financial planning and resource management.",
+                linkedin: "#",
+                email: "basil@sjcetpalai.ac.in",
+                letter: "B"
+            },
+            {
+                name: "Tims Tittus",
+                role: "PR and Research Lead",
+                image: "/execom/24-25/tims.jpeg",
+                bio: "Managing public relations, research, and technical strategy.",
+                linkedin: "https://www.linkedin.com/in/tims-tittus-b4908b27b/",
+                email: "tims@sjcetpalai.ac.in",
+                letter: "T"
+            },
+            {
+                name: "Angel Mariya",
+                role: "Women Innovation Lead",
+                image: "/execom/24-25/Angle.png",
+                bio: "Empowering women in technology and entrepreneurship.",
+                linkedin: "https://www.linkedin.com/in/angel-maria-5474302b1/",
+                email: "angel@sjcetpalai.ac.in",
+                letter: "A"
+            },
+            {
+                name: "Milan Suman",
+                role: "CTO",
+                image: "/execom/24-25/milan.png",
+                bio: "Driving technical excellence and product development within IEDC.",
+                linkedin: "https://www.linkedin.com/in/milan-suman-66234b25b/",
+                email: "milan@sjcetpalai.ac.in",
+                letter: "M"
+            },
+            {
+                name: "Chris Alex",
+                role: "CCO",
+                image: "/execom/24-25/chris.png",
+                bio: "Overseeing creative direction and design execution.",
+                linkedin: "https://www.linkedin.com/in/chris-oommen-alex/",
+                email: "chris@sjcetpalai.ac.in",
+                letter: "C"
+            },
+            {
+                name: "Yadhu Krishna",
+                role: "COO",
+                image: "/execom/24-25/yadhu.png",
+                bio: "Managing operations and internal processes.",
+                linkedin: "https://www.linkedin.com/in/yadukrishna-hari-964170317/",
+                email: "yadhu@sjcetpalai.ac.in",
+                letter: "Y"
+            },
+            {
+                name: "Jibin Gigi",
+                role: "CEO",
+                image: "/execom/24-25/jibin.png",
+                bio: "Leading the executive committee and strategic initiatives.",
+                linkedin: "https://www.linkedin.com/in/404-jibin-gigi/",
+                email: "jibin@sjcetpalai.ac.in",
+                letter: "J"
+            },
+            {
+                name: "Andrea Theresa",
+                role: "Student Lead",
+                image: "",
+                bio: "Leading student initiatives and engagement.",
+                linkedin: "#",
+                email: "andrea@sjcetpalai.ac.in",
+                letter: "A"
+            },
+            {
+                name: "Doney Siby",
+                role: "Community Lead",
+                image: "",
+                bio: "Fostering community growth and collaborations.",
+                linkedin: "#",
+                email: "doney@sjcetpalai.ac.in",
+                letter: "D"
+            }
+        ],
         teamSections: [
             {
                 title: "Core Team 24/25",
